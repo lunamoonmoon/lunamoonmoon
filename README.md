@@ -20,7 +20,7 @@ I’m interested in reading, crocheting, and painting
 ---
 
 ### Links to socials
-[linkedin]([linkhere](https://www.linkedin.com/in/luna-m-7331ba277))
+[linkedin](https://www.linkedin.com/in/luna-m-7331ba277)
 
 <!---
 lunamoonmoon/lunamoonmoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
