@@ -1,6 +1,6 @@
 ## Hi, :wave: I'm Luna/@lunamoonmoon! :sparkles:
 I’m interested in reading, crocheting, and painting
-🌱 I’m currently learning JS, react, and this whole tech space
+🌱 I’m currently learning Java (at TRU), JS, react, and this whole tech space
 📫 How to reach me: discord, send me a message!
 
 ### Languages
