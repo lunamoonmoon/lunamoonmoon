@@ -4,11 +4,13 @@ I’m interested in reading, crocheting, and painting
 📫 How to reach me: discord, send me a message!
 
 ### Languages
+* Java
 * Javascript
 * HTML
 * CSS
 
 ### Education
+* Thompson Rivers University (In Progress)
 * Lighthouse Labs
 * Camosun
 
